@@ -6,6 +6,7 @@
 **Location:** Price Center
 
 ## Attendance
+Ishika Agrawal
 
 ## Agenda
 + Define roles and responsibilities
