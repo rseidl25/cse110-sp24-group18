@@ -7,6 +7,7 @@
 
 ## Attendance
 Ishika Agrawal
+Ryan Seidl
 
 ## Agenda
 + Define roles and responsibilities
