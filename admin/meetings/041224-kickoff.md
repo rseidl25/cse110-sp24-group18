@@ -1,7 +1,9 @@
 # Kick-off Meeting
-**Date:**
-**Time:**
-**Location:**
+**Date:** April 12, 2024
+
+**Time:** 4-6pm
+
+**Location:** Price Center
 
 ## Attendance
 
